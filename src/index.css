@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    /* Soft ivory background */
+    --background: 45 25% 97%;
+    --foreground: 270 15% 25%;
+
+    /* Card with subtle lavender tint */
+    --card: 270 30% 98%;
+    --card-foreground: 270 15% 25%;
+
+    --popover: 270 30% 98%;
+    --popover-foreground: 270 15% 25%;
+
+    /* Lavender primary */
+    --primary: 270 60% 65%;
+    --primary-foreground: 0 0% 100%;
+
+    /* Blush secondary */
+    --secondary: 345 75% 82%;
+    --secondary-foreground: 270 15% 25%;
+
+    /* Soft muted lavender */
+    --muted: 270 30% 95%;
+    --muted-foreground: 270 15% 50%;
+
+    /* Blush accent */
+    --accent: 345 75% 82%;
+    --accent-foreground: 270 15% 25%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 270 20% 90%;
+    --input: 270 20% 90%;
+    --ring: 270 60% 65%;
+
+    --radius: 1rem;
+
+    /* Custom design tokens */
+    --gradient-lavender: linear-gradient(135deg, hsl(270, 60%, 75%), hsl(280, 55%, 85%));
+    --gradient-blush: linear-gradient(135deg, hsl(345, 75%, 82%), hsl(350, 70%, 88%));
+    --gradient-hero: linear-gradient(135deg, hsl(270, 60%, 95%), hsl(345, 75%, 95%));
+    --shadow-soft: 0 4px 20px hsl(270 30% 80% / 0.15);
+    --shadow-card: 0 8px 32px hsl(270 30% 70% / 0.12);
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+@keyframes scroll-horizontal {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-scroll-horizontal {
+  animation: scroll-horizontal 30s linear infinite;
+}
+
+.animate-scroll-horizontal:hover {
+  animation-play-state: paused;
+}

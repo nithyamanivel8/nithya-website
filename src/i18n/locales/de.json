@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "greeting": "Hallo, ich bin Nithya Manivel",
+    "tagline": "Ich verbinde großartige Menschen mit noch besseren Möglichkeiten.",
+    "subtitle": "Talent Acquisition | Produkt & Tech Recruiting | Teams aufbauen, die gedeihen",
+    "connectBtn": "Kontakt aufnehmen",
+    "linkedinBtn": "LinkedIn"
+  },
+  "about": {
+    "title": "Über mich",
+    "para1": "Mit über 4 Jahren Erfahrung in Talent Acquisition und HR-Operationen hatte ich das Privileg, Startups und globalen Organisationen dabei zu helfen, außergewöhnliche Teams aufzubauen. Meine Reise führte mich von der Skalierung von Data & AI-Teams in wachstumsstarken Unternehmen bis zur Gründung von zwei Spieleentwicklungsstudios.",
+    "para2": "Ich bin spezialisiert auf Technical, Product und Data & AI Recruiting mit einer nachgewiesenen Erfolgsbilanz bei der Reduzierung der Time-to-Hire um bis zu 35%, während ich die außergewöhnliche Qualität der Kandidaten aufrechterhalte. Ich habe mit C-Suite-Führungskräften zusammengearbeitet, um Einstellungsstrategien zu gestalten, 120+ Fachleute in verschiedenen Funktionen eingestellt und konsequent 100% Erfüllungsraten erreicht, selbst für die anspruchsvollsten Rollen.",
+    "para3": "Was treibt mich an? Die menschliche Verbindung. Ich glaube, dass jede großartige Einstellung damit beginnt, Menschen zu verstehen—ihre Bestrebungen, ihre Fähigkeiten und was sie zum Gedeihen bringt. Ob ich Angebote verhandle, ATS-Workflows optimiere oder Talent-Pipelines aufbaue, ich gehe jede Interaktion mit Empathie, Transparenz und einem echten Engagement für Win-Win-Ergebnisse an.",
+    "quote": "Ich glaube, dass jede großartige Einstellung mit einer menschlichen Verbindung beginnt—und ich bin gerne diese Brücke."
+  },
+  "experience": {
+    "title": "Erfahrung",
+    "subtitle": "Außergewöhnliche Teams aufbauen, eine Einstellung nach der anderen"
+  },
+  "skills": {
+    "title": "Fähigkeiten & Expertise",
+    "subtitle": "Werkzeuge und Fähigkeiten, die außergewöhnliches Recruiting ermöglichen"
+  },
+  "achievements": {
+    "title": "Erfolge & Zertifizierungen",
+    "subtitle": "Anerkennung und kontinuierliches Lernen"
+  },
+  "testimonials": {
+    "title": "Was andere sagen",
+    "subtitle": "Referenzen von Kollegen und Führungskräften",
+    "raquel": "Ich hatte die Gelegenheit, Nithya während ihrer Zeit als Talent Acquisition Specialist bei Zitro zu betreuen. Sie führte ihre Aufgaben mit Professionalität und einer positiven Einstellung aus und zeigte Engagement gegenüber Kandidaten und Stakeholdern. Ich bin zuversichtlich, dass sie weiter wachsen und Wert in ihrer Karriere schaffen wird.",
+    "soumya": "Ich hatte das Vergnügen, mit Nithya bei Prescience zusammenzuarbeiten, wo sie ein wichtiger Teil des Talent Acquisition-Teams war. Wir haben an mehreren herausfordernden und zeitkritischen Einstellungsbedürfnissen zusammengearbeitet, und ihr Engagement und ihre Fähigkeiten stachen hervor. Nithya ist immer ruhig und dennoch selbstbewusst, was die Zusammenarbeit mit ihr einfach machte. Sie war proaktiv und half bei der Verbesserung der Rekrutierungsprozesse durch die Einführung neuer Tools und Strategien. Auf persönlicher Ebene ist Nithya freundlich, positiv und macht Spaß, mit ihr zusammen zu sein. Sie wäre eine großartige Bereicherung für jedes Team oder jede Organisation.",
+    "vidya": "Nithya ist eine talentierte und intelligente Recruiterin und leidenschaftlich bei ihrer Arbeit. Es war großartig, mit Nithya zu arbeiten.",
+    "anirban": "Nithya hat mehr als 2 Jahre mit uns gearbeitet und uns geholfen, ein großartiges Team aufzubauen mit ihrer starken Fähigkeit, Top-Talente zu finden und einzustellen. Ihre Expertise im Aufbau von Beziehungen mit potenziellen Recruits ist beeindruckend. Sie ist ergebnisorientiert, gut organisiert und hat die Erwartungen konsequent übertroffen."
+  },
+  "euMarket": {
+    "title": "Europäische Talent Acquisition Expertise",
+    "subtitle": "Verständnis der einzigartigen Dynamik der EU-Rekrutierungslandschaft und Aufbau vielfältiger, funktionsübergreifender Teams über mehrere Märkte hinweg.",
+    "insights": {
+      "location": {
+        "title": "Amsterdam-basiert, EU-fokussiert",
+        "description": "Mit Sitz in Amsterdam mit gesetzlicher Genehmigung, in den gesamten Niederlanden zu arbeiten. Tiefes Verständnis niederländischer und breiterer europäischer Rekrutierungspraktiken, Arbeitsgesetze und kultureller Nuancen."
+      },
+      "diversity": {
+        "title": "Mehrsprachig & Interkulturell",
+        "description": "Erfahrung in der Einstellung über verschiedene europäische Märkte hinweg. Vertraut mit der Navigation in mehrsprachigen Umgebungen und dem Aufbau inklusiver Teams, die Europas reiche kulturelle Vielfalt widerspiegeln."
+      },
+      "market": {
+        "title": "EU Tech & Startup-Ökosystem",
+        "description": "Spezialisiertes Wissen über die europäische Tech-Startup-Landschaft, von Amsterdams lebendiger Tech-Szene bis zu pan-europäischen Scale-ups. Verständnis DSGVO-konformer Rekrutierungspraktiken."
+      },
+      "skills": {
+        "title": "Gefragte EU-Fähigkeiten",
+        "description": "Expertise im Sourcing schwer zu findender Data & AI, Product und Technical Talente in wettbewerbsintensiven europäischen Märkten. Starke Netzwerke in den Niederlanden, Deutschland und der breiteren EU."
+      }
+    },
+    "closing": "Bereit, Ihr Team über Europa zu skalieren? Lassen Sie uns gemeinsam etwas Außergewöhnliches aufbauen."
+  },
+  "contact": {
+    "title": "Kontaktieren Sie mich",
+    "subtitle": "Lassen Sie uns gemeinsam Ihr nächstes großartiges Team aufbauen 💫",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "location": "Standort",
+    "locationCity": "Amsterdam, Niederlande",
+    "visa": "Partnervisum / Keine Sponsoring erforderlich",
+    "connectLinkedIn": "Auf LinkedIn vernetzen",
+    "sendEmail": "E-Mail senden",
+    "whatsapp": "WhatsApp",
+    "quote": "Ich glaube, dass jede großartige Einstellung mit einer menschlichen Verbindung beginnt—und ich bin gerne diese Brücke.",
+    "callPhone": "Jetzt anrufen"
+  },
+  "footer": {
+    "copyright": "© 2025 Nithya Manivel. Mit Sorgfalt gebaut und für Verbindung gestaltet."
+  }
+}

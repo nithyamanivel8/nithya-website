@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "greeting": "Hi, I'm Nithya Manivel",
+    "tagline": "I connect great people with even greater opportunities.",
+    "subtitle": "Talent Acquisition | Product & Tech Hiring | Building Teams That Thrive",
+    "connectBtn": "Let's Connect",
+    "linkedinBtn": "LinkedIn"
+  },
+  "about": {
+    "title": "About Me",
+    "para1": "With over 4 years of experience in talent acquisition and HR operations, I've had the privilege of helping startups and global organizations build exceptional teams. My journey has taken me from scaling Data & AI teams at high-growth companies to launching two game development studios from the ground up.",
+    "para2": "I specialize in Technical, Product, and Data & AI hiring, with a proven track record of reducing time-to-hire by up to 35% while maintaining exceptional candidate quality. I've partnered with C-suite leaders to shape hiring strategies, hired 120+ professionals across diverse functions, and consistently achieved 100% fill rates even for the most challenging roles.",
+    "para3": "What drives me? The human connection. I believe every great hire begins with understanding people—their aspirations, their skills, and what makes them thrive. Whether I'm negotiating offers, optimizing ATS workflows, or building talent pipelines, I approach every interaction with empathy, transparency, and a genuine commitment to creating win-win outcomes.",
+    "quote": "I believe every great hire begins with a human connection—and I love being that bridge."
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "Building exceptional teams, one hire at a time"
+  },
+  "skills": {
+    "title": "Skills & Expertise",
+    "subtitle": "Tools and capabilities that power exceptional hiring"
+  },
+  "achievements": {
+    "title": "Achievements & Certifications",
+    "subtitle": "Recognition and continuous learning"
+  },
+  "testimonials": {
+    "title": "What People Say",
+    "subtitle": "Testimonials from colleagues and leaders",
+    "raquel": "I had the opportunity to supervise Nithya during her time as a Talent Acquisition Specialist at Zitro. She carried out her responsibilities with professionalism and a positive attitude, showing commitment to both candidates and stakeholders. I am confident she will continue to grow and add value in her career.",
+    "soumya": "I had the pleasure of working with Nithya at Prescience, where she was a key part of the Talent Acquisition team. We worked together on several challenging and time-sensitive hiring needs, and her commitment and skills stood out. Nithya is always calm yet confident, which made working with her easy. She was proactive and helped in improving the recruitment processes by adoption of new tools and strategies. On a personal level, Nithya is friendly, positive, and fun to be around. She would be a great asset to any team or organization.",
+    "vidya": "Nithya is a talented and smart recruiter and passionate about her work. It was great work with Nithya.",
+    "anirban": "Nithya worked with us for more than 2 years and helped us to build a great team with her strong ability to source and recruit top talent. Her expertise in building relationships with potential recruits is impressive. She is results-driven, well organized, and consistently exceeded expectations."
+  },
+  "euMarket": {
+    "title": "European Talent Acquisition Expertise",
+    "subtitle": "Understanding the unique dynamics of the EU hiring landscape and building diverse, cross-functional teams across multiple markets.",
+    "insights": {
+      "location": {
+        "title": "Amsterdam-Based, EU-Focused",
+        "description": "Based in Amsterdam with legal authorization to work across the Netherlands. Deep understanding of Dutch and broader European hiring practices, labor laws, and cultural nuances."
+      },
+      "diversity": {
+        "title": "Multilingual & Cross-Cultural",
+        "description": "Experience hiring across diverse European markets. Comfortable navigating multilingual environments and building inclusive teams that reflect Europe's rich cultural diversity."
+      },
+      "market": {
+        "title": "EU Tech & Startup Ecosystem",
+        "description": "Specialized knowledge of the European tech startup landscape, from Amsterdam's vibrant tech scene to pan-European scale-ups. Understanding of GDPR-compliant recruitment practices."
+      },
+      "skills": {
+        "title": "In-Demand EU Skills",
+        "description": "Expertise in sourcing hard-to-find Data & AI, Product, and Technical talent in competitive European markets. Strong networks across Netherlands, Germany, and broader EU."
+      }
+    },
+    "closing": "Ready to scale your team across Europe? Let's build something exceptional together."
+  },
+  "contact": {
+    "title": "Let's Connect",
+    "subtitle": "Let's build your next great team together 💫",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "locationCity": "Amsterdam, Netherlands",
+    "visa": "Partner Visa / No Sponsorship Required",
+    "connectLinkedIn": "Connect on LinkedIn",
+    "sendEmail": "Send Email",
+    "whatsapp": "WhatsApp",
+    "quote": "I believe every great hire begins with a human connection—and I love being that bridge.",
+    "callPhone": "Call Now"
+  },
+  "footer": {
+    "copyright": "© 2025 Nithya Manivel. Built with care and designed for connection."
+  }
+}

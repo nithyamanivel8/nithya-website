@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "greeting": "Hoi, ik ben Nithya Manivel",
+    "tagline": "Ik verbind geweldige mensen met nog betere kansen.",
+    "subtitle": "Talent Acquisition | Product & Tech Recruitment | Teams bouwen die floreren",
+    "connectBtn": "Contact opnemen",
+    "linkedinBtn": "LinkedIn"
+  },
+  "about": {
+    "title": "Over mij",
+    "para1": "Met meer dan 4 jaar ervaring in talent acquisition en HR-operaties heb ik het voorrecht gehad om startups en wereldwijde organisaties te helpen uitzonderlijke teams op te bouwen. Mijn reis heeft me gebracht van het opschalen van Data & AI-teams bij snelgroeiende bedrijven tot het oprichten van twee game development studio's.",
+    "para2": "Ik ben gespecialiseerd in Technical, Product en Data & AI recruitment, met een bewezen staat van dienst in het verkorten van de time-to-hire met tot 35% terwijl ik de uitzonderlijke kwaliteit van kandidaten behoud. Ik heb samengewerkt met C-suite leiders om wervingsstrategieën vorm te geven, 120+ professionals aangenomen in verschillende functies, en consistent 100% vervullingspercentages bereikt, zelfs voor de meest uitdagende rollen.",
+    "para3": "Wat drijft mij? De menselijke verbinding. Ik geloof dat elke geweldige aanname begint met het begrijpen van mensen—hun ambities, hun vaardigheden en wat hen laat floreren. Of ik nu aan het onderhandelen ben over aanbiedingen, ATS-workflows optimaliseer of talentpipelines bouw, ik benader elke interactie met empathie, transparantie en een oprechte toewijding om win-win resultaten te creëren.",
+    "quote": "Ik geloof dat elke geweldige aanname begint met een menselijke verbinding—en ik ben graag die brug."
+  },
+  "experience": {
+    "title": "Ervaring",
+    "subtitle": "Uitzonderlijke teams bouwen, één aanname tegelijk"
+  },
+  "skills": {
+    "title": "Vaardigheden & Expertise",
+    "subtitle": "Tools en capaciteiten die uitzonderlijke recruitment mogelijk maken"
+  },
+  "achievements": {
+    "title": "Prestaties & Certificeringen",
+    "subtitle": "Erkenning en continu leren"
+  },
+  "testimonials": {
+    "title": "Wat mensen zeggen",
+    "subtitle": "Referenties van collega's en leiders",
+    "raquel": "Ik heb de kans gehad om Nithya te superviseren tijdens haar tijd als Talent Acquisition Specialist bij Zitro. Ze voerde haar verantwoordelijkheden uit met professionaliteit en een positieve houding, waarbij ze betrokkenheid toonde bij zowel kandidaten als stakeholders. Ik ben ervan overtuigd dat ze zal blijven groeien en waarde zal toevoegen in haar carrière.",
+    "soumya": "Ik heb met genoegen met Nithya gewerkt bij Prescience, waar ze een belangrijk onderdeel was van het Talent Acquisition-team. We werkten samen aan verschillende uitdagende en tijdgevoelige wervingsbehoeften, en haar toewijding en vaardigheden vielen op. Nithya is altijd kalm maar zelfverzekerd, wat het werken met haar gemakkelijk maakte. Ze was proactief en hielp bij het verbeteren van de wervingsprocessen door de adoptie van nieuwe tools en strategieën. Op persoonlijk niveau is Nithya vriendelijk, positief en leuk om mee om te gaan. Ze zou een grote aanwinst zijn voor elk team of organisatie.",
+    "vidya": "Nithya is een getalenteerde en slimme recruiter en gepassioneerd over haar werk. Het was geweldig om met Nithya te werken.",
+    "anirban": "Nithya heeft meer dan 2 jaar met ons gewerkt en ons geholpen een geweldig team op te bouwen met haar sterke vermogen om toptalent te vinden en aan te werven. Haar expertise in het opbouwen van relaties met potentiële recruits is indrukwekkend. Ze is resultaatgericht, goed georganiseerd en overtrof consequent de verwachtingen."
+  },
+  "euMarket": {
+    "title": "Europese Talent Acquisition Expertise",
+    "subtitle": "Begrip van de unieke dynamiek van het EU-recruitmentlandschap en het bouwen van diverse, multifunctionele teams over meerdere markten.",
+    "insights": {
+      "location": {
+        "title": "Amsterdam-gevestigd, EU-gericht",
+        "description": "Gevestigd in Amsterdam met wettelijke toestemming om in heel Nederland te werken. Diepgaand begrip van Nederlandse en bredere Europese wervingspraktijken, arbeidswetten en culturele nuances."
+      },
+      "diversity": {
+        "title": "Meertalig & Intercultureel",
+        "description": "Ervaring met werven in diverse Europese markten. Comfortabel in het navigeren van meertalige omgevingen en het bouwen van inclusieve teams die Europa's rijke culturele diversiteit weerspiegelen."
+      },
+      "market": {
+        "title": "EU Tech & Startup Ecosysteem",
+        "description": "Gespecialiseerde kennis van het Europese tech startup-landschap, van Amsterdam's levendige tech-scene tot pan-Europese scale-ups. Begrip van GDPR-conforme wervingspraktijken."
+      },
+      "skills": {
+        "title": "Gevraagde EU-vaardigheden",
+        "description": "Expertise in het sourcen van moeilijk te vinden Data & AI, Product en Technical talent in competitieve Europese markten. Sterke netwerken in Nederland, Duitsland en de bredere EU."
+      }
+    },
+    "closing": "Klaar om uw team over Europa op te schalen? Laten we samen iets uitzonderlijks bouwen."
+  },
+  "contact": {
+    "title": "Contact opnemen",
+    "subtitle": "Laten we samen uw volgende geweldige team bouwen 💫",
+    "email": "E-mail",
+    "phone": "Telefoon",
+    "location": "Locatie",
+    "locationCity": "Amsterdam, Nederland",
+    "visa": "Partnervisum / Geen sponsoring vereist",
+    "connectLinkedIn": "Verbinden op LinkedIn",
+    "sendEmail": "E-mail versturen",
+    "whatsapp": "WhatsApp",
+    "quote": "Ik geloof dat elke geweldige aanname begint met een menselijke verbinding—en ik ben graag die brug.",
+    "callPhone": "Bel nu"
+  },
+  "footer": {
+    "copyright": "© 2025 Nithya Manivel. Met zorg gebouwd en ontworpen voor verbinding."
+  }
+}
