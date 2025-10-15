@@ -7,6 +7,12 @@ const Testimonials = () => {
 
   const testimonials = [
     {
+      name: "Anirban Majumder",
+      role: "Co-Founder",
+      company: "Prescience Decision Solutions",
+      text: t('testimonials.anirban')
+    },
+    {
       name: "Raquel Grillo",
       role: "International HR Specialist",
       company: "Zitro Games",
@@ -23,13 +29,8 @@ const Testimonials = () => {
       role: "Head of Talent Acquisition",
       company: "Prescience Decision Solutions",
       text: t('testimonials.vidya')
-    },
-    {
-      name: "Anirban Majumder",
-      role: "Co-Founder",
-      company: "Prescience Decision Solutions",
-      text: t('testimonials.anirban')
     }
+
   ];
 
   return (
