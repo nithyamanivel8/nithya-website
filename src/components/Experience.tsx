@@ -21,7 +21,7 @@ const experiences = [
   {
     title: "Human Resources Associate",
     company: "Prescience Decision Solutions",
-    companyUrl: "https://www.prescience.com/",
+    companyUrl: "https://prescienceds.com/",
     location: "Bangalore, India",
     period: "Mar 2022 – Dec 2024",
     highlights: [
@@ -36,7 +36,7 @@ const experiences = [
   {
     title: "Recruitment Consultant",
     company: "Pan Asia Resources",
-    companyUrl: "https://www.panasiaresources.com/",
+    companyUrl: "https://panasiagroup.net/",
     location: "APAC Region",
     period: "Sep 2021 – Mar 2022",
     highlights: [
