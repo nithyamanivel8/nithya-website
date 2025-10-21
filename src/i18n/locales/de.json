@@ -4,14 +4,15 @@
     "tagline": "Ich verbinde großartige Menschen mit noch besseren Möglichkeiten.",
     "subtitle": "Talent Acquisition | Produkt & Tech Recruiting | Teams aufbauen, die gedeihen",
     "connectBtn": "Kontakt aufnehmen",
-    "linkedinBtn": "LinkedIn"
+    "linkedinBtn": "LinkedIn",
+    "downloadBtn": "Lebenslauf Herunterladen"
   },
   "about": {
     "title": "Über mich",
     "para1": "Mit über 4 Jahren Erfahrung in Talent Acquisition und HR-Operationen hatte ich das Privileg, Startups und globalen Organisationen dabei zu helfen, außergewöhnliche Teams aufzubauen. Meine Reise führte mich von der Skalierung von Data & AI-Teams in wachstumsstarken Unternehmen bis zur Gründung von zwei Spieleentwicklungsstudios.",
     "para2": "Ich bin spezialisiert auf Technical, Product und Data & AI Recruiting mit einer nachgewiesenen Erfolgsbilanz bei der Reduzierung der Time-to-Hire um bis zu 35%, während ich die außergewöhnliche Qualität der Kandidaten aufrechterhalte. Ich habe mit C-Suite-Führungskräften zusammengearbeitet, um Einstellungsstrategien zu gestalten, 120+ Fachleute in verschiedenen Funktionen eingestellt und konsequent 100% Erfüllungsraten erreicht, selbst für die anspruchsvollsten Rollen.",
-    "para3": "Was treibt mich an? Die menschliche Verbindung. Ich glaube, dass jede großartige Einstellung damit beginnt, Menschen zu verstehen—ihre Bestrebungen, ihre Fähigkeiten und was sie zum Gedeihen bringt. Ob ich Angebote verhandle, ATS-Workflows optimiere oder Talent-Pipelines aufbaue, ich gehe jede Interaktion mit Empathie, Transparenz und einem echten Engagement für Win-Win-Ergebnisse an.",
-    "quote": "Ich glaube, dass jede großartige Einstellung mit einer menschlichen Verbindung beginnt—und ich bin gerne diese Brücke."
+    "para3": "Was treibt mich an? Die menschliche Verbindung. Ich glaube, dass jede großartige Einstellung damit beginnt, Menschen zu verstehen, ihre Bestrebungen, ihre Fähigkeiten und was sie zum Gedeihen bringt. Ob ich Angebote verhandle, ATS Workflows optimiere oder Talent Pipelines aufbaue, ich gehe jede Interaktion mit Empathie, Transparenz und einem echten Engagement für Win-Win-Ergebnisse an.",
+    "quote": "Ich glaube, dass jede großartige Einstellung mit einer menschlichen Verbindung beginnt, und ich bin gerne diese Brücke."
   },
   "experience": {
     "title": "Erfahrung",
@@ -38,19 +39,19 @@
     "subtitle": "Verständnis der einzigartigen Dynamik der EU-Rekrutierungslandschaft und Aufbau vielfältiger, funktionsübergreifender Teams über mehrere Märkte hinweg.",
     "insights": {
       "location": {
-        "title": "Amsterdam-basiert, EU-fokussiert",
+        "title": "Amsterdam basiert, EU fokussiert",
         "description": "Mit Sitz in Amsterdam mit gesetzlicher Genehmigung, in den gesamten Niederlanden zu arbeiten. Tiefes Verständnis niederländischer und breiterer europäischer Rekrutierungspraktiken, Arbeitsgesetze und kultureller Nuancen."
       },
       "diversity": {
-        "title": "Mehrsprachig & Interkulturell",
+        "title": "Mehrsprachig und Interkulturell",
         "description": "Erfahrung in der Einstellung über verschiedene europäische Märkte hinweg. Vertraut mit der Navigation in mehrsprachigen Umgebungen und dem Aufbau inklusiver Teams, die Europas reiche kulturelle Vielfalt widerspiegeln."
       },
       "market": {
-        "title": "EU Tech & Startup-Ökosystem",
-        "description": "Spezialisiertes Wissen über die europäische Tech-Startup-Landschaft, von Amsterdams lebendiger Tech-Szene bis zu pan-europäischen Scale-ups. Verständnis DSGVO-konformer Rekrutierungspraktiken."
+        "title": "EU Tech und Startup Ökosystem",
+        "description": "Spezialisiertes Wissen über die europäische Tech Startup Landschaft, von Amsterdams lebendiger Tech Szene bis zu pan-europäischen Scale-ups. Verständnis DSGVO konformer Rekrutierungspraktiken."
       },
       "skills": {
-        "title": "Gefragte EU-Fähigkeiten",
+        "title": "Gefragte EU Fähigkeiten",
         "description": "Expertise im Sourcing schwer zu findender Data & AI, Product und Technical Talente in wettbewerbsintensiven europäischen Märkten. Starke Netzwerke in den Niederlanden, Deutschland und der breiteren EU."
       }
     },
@@ -67,7 +68,7 @@
     "connectLinkedIn": "Auf LinkedIn vernetzen",
     "sendEmail": "E-Mail senden",
     "whatsapp": "WhatsApp",
-    "quote": "Ich glaube, dass jede großartige Einstellung mit einer menschlichen Verbindung beginnt—und ich bin gerne diese Brücke.",
+    "quote": "Ich glaube, dass jede großartige Einstellung mit einer menschlichen Verbindung beginnt, und ich bin gerne diese Brücke.",
     "callPhone": "Jetzt anrufen"
   },
   "footer": {

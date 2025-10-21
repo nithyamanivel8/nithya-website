@@ -4,14 +4,15 @@
     "tagline": "Ik verbind geweldige mensen met nog betere kansen.",
     "subtitle": "Talent Acquisition | Product & Tech Recruitment | Teams bouwen die floreren",
     "connectBtn": "Contact opnemen",
-    "linkedinBtn": "LinkedIn"
+    "linkedinBtn": "LinkedIn",
+    "downloadBtn": "CV Downloaden"
   },
   "about": {
     "title": "Over mij",
     "para1": "Met meer dan 4 jaar ervaring in talent acquisition en HR-operaties heb ik het voorrecht gehad om startups en wereldwijde organisaties te helpen uitzonderlijke teams op te bouwen. Mijn reis heeft me gebracht van het opschalen van Data & AI-teams bij snelgroeiende bedrijven tot het oprichten van twee game development studio's.",
     "para2": "Ik ben gespecialiseerd in Technical, Product en Data & AI recruitment, met een bewezen staat van dienst in het verkorten van de time-to-hire met tot 35% terwijl ik de uitzonderlijke kwaliteit van kandidaten behoud. Ik heb samengewerkt met C-suite leiders om wervingsstrategieën vorm te geven, 120+ professionals aangenomen in verschillende functies, en consistent 100% vervullingspercentages bereikt, zelfs voor de meest uitdagende rollen.",
-    "para3": "Wat drijft mij? De menselijke verbinding. Ik geloof dat elke geweldige aanname begint met het begrijpen van mensen—hun ambities, hun vaardigheden en wat hen laat floreren. Of ik nu aan het onderhandelen ben over aanbiedingen, ATS-workflows optimaliseer of talentpipelines bouw, ik benader elke interactie met empathie, transparantie en een oprechte toewijding om win-win resultaten te creëren.",
-    "quote": "Ik geloof dat elke geweldige aanname begint met een menselijke verbinding—en ik ben graag die brug."
+    "para3": "Wat drijft mij? De menselijke verbinding. Ik geloof dat elke geweldige aanname begint met het begrijpen van mensen, hun ambities, hun vaardigheden en wat hen laat floreren. Of ik nu aan het onderhandelen ben over aanbiedingen, ATS workflows optimaliseer of talentpipelines bouw, ik benader elke interactie met empathie, transparantie en een oprechte toewijding om win-win resultaten te creëren.",
+    "quote": "Ik geloof dat elke geweldige aanname begint met een menselijke verbinding, en ik ben graag die brug."
   },
   "experience": {
     "title": "Ervaring",
@@ -38,19 +39,19 @@
     "subtitle": "Begrip van de unieke dynamiek van het EU-recruitmentlandschap en het bouwen van diverse, multifunctionele teams over meerdere markten.",
     "insights": {
       "location": {
-        "title": "Amsterdam-gevestigd, EU-gericht",
+        "title": "Amsterdam gevestigd, EU gericht",
         "description": "Gevestigd in Amsterdam met wettelijke toestemming om in heel Nederland te werken. Diepgaand begrip van Nederlandse en bredere Europese wervingspraktijken, arbeidswetten en culturele nuances."
       },
       "diversity": {
-        "title": "Meertalig & Intercultureel",
+        "title": "Meertalig en Intercultureel",
         "description": "Ervaring met werven in diverse Europese markten. Comfortabel in het navigeren van meertalige omgevingen en het bouwen van inclusieve teams die Europa's rijke culturele diversiteit weerspiegelen."
       },
       "market": {
-        "title": "EU Tech & Startup Ecosysteem",
-        "description": "Gespecialiseerde kennis van het Europese tech startup-landschap, van Amsterdam's levendige tech-scene tot pan-Europese scale-ups. Begrip van GDPR-conforme wervingspraktijken."
+        "title": "EU Tech en Startup Ecosysteem",
+        "description": "Gespecialiseerde kennis van het Europese tech startup landschap, van Amsterdam's levendige tech scene tot pan-Europese scale-ups. Begrip van GDPR conforme wervingspraktijken."
       },
       "skills": {
-        "title": "Gevraagde EU-vaardigheden",
+        "title": "Gevraagde EU vaardigheden",
         "description": "Expertise in het sourcen van moeilijk te vinden Data & AI, Product en Technical talent in competitieve Europese markten. Sterke netwerken in Nederland, Duitsland en de bredere EU."
       }
     },
@@ -67,7 +68,7 @@
     "connectLinkedIn": "Verbinden op LinkedIn",
     "sendEmail": "E-mail versturen",
     "whatsapp": "WhatsApp",
-    "quote": "Ik geloof dat elke geweldige aanname begint met een menselijke verbinding—en ik ben graag die brug.",
+    "quote": "Ik geloof dat elke geweldige aanname begint met een menselijke verbinding, en ik ben graag die brug.",
     "callPhone": "Bel nu"
   },
   "footer": {
