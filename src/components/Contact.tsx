@@ -26,10 +26,10 @@ const Contact = () => {
                 <div>
                   <h3 className="font-semibold text-foreground mb-1">{t('contact.email')}</h3>
                   <a 
-                    href="mailto:nithyamanivel8@gmail.com"
+                    href="mailto:nithyamanivel1813@gmail.com"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    nithyamanivel8@gmail.com
+                    nithyamanivel1813@gmail.com
                   </a>
                 </div>
               </div>
@@ -80,7 +80,7 @@ const Contact = () => {
                 size="lg"
                 variant="outline"
                 className="w-full border-2 border-primary/30 hover:border-primary hover:bg-primary/5 rounded-full"
-                onClick={() => window.location.href = 'mailto:nithyamanivel8@gmail.com'}
+                onClick={() => window.location.href = 'mailto:nithyamanivel1813@gmail.com'}
               >
                 <Mail className="mr-2 h-5 w-5" />
                 {t('contact.sendEmail')}
